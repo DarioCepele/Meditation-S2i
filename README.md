@@ -1,8 +1,39 @@
-# React + Vite
+# MeditateNow
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[![NPM Version][npm-image]][npm-url]
 
-Currently, two official plugins are available:
+The easiest way to Meditate.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Test my app
+
+where you want :smiley:
+
+```sh
+ https://meditatenow-s2i.netlify.app/
+```
+
+## Installation
+
+Windows:
+
+```sh
+git https://github.com/DarioCepele/Meditation-S2i.git
+```
+
+## Usage example
+
+Why use MeditateNow?
+
+* Easy
+* Cool
+* Nice to use
+
+What you want more?
+
+## Meta
+
+Dario Cepele – [@Portfolio](https://dariocepele.github.io/) – dario.cepele3@gmail.com
+
+<!-- Markdown link & img dfn's -->
+[npm-image]: https://img.shields.io/npm/v/npm
+[npm-url]: https://npmjs.org/package/datadog-metrics
