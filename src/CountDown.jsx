@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
-import Timer from './components/timer'
-import Footer from "./components/footer";
+import Timer from './components/timer.jsx'
+import Footer from "./components/Footer.jsx";
 
 export default function CountdownTimer() {
   const [hours, setHours] = useState(0);

@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import meditation from './assets/meditation.svg'
-import Footer from './components/footer'
+import Footer from './components/Footer.jsx'
 
 function App() {
 
